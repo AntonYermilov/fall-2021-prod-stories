@@ -1,0 +1,5 @@
+deeppavlov
+python-telegram-bot
+python-weather
+fasttext
+tensorflow
